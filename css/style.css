@@ -15,9 +15,6 @@ ul li a{
     color: black;
     text-decoration: none;
 }
-.nav-bar{
-    background-color: white;
-}
 
 .container-fluid{
     width: 100%;
@@ -67,19 +64,7 @@ ul li a{
     width: 100%;
 }
 
-
-.brand{
-    height: 80px;
-    width: 100%;
-}
-.logo img {
-    width: 100%;
-    padding: 0px 0px 0px 0px;
-}
-
-.menu{
-    width: 100%;
-}
+/* এই পর্যন্ত মুখস্ত */
 
 .feature{
     background: rgb(21, 21, 21);
