@@ -103,4 +103,25 @@ ul li a{
     font-size: 17px;
     text-align: justify;
 }
+.info-table{
+    margin-left: auto;
+}
+.main-table{
+    text-align: center;
+    margin: auto;
+}
+table{
+    width: 100%;
+    border: 1px solid black;
+}
+th{
+    border: 1px solid black;
+    padding: 5px;
+}
+.table-1 td{
+    border: 1px solid black;
+}
+.table-2 td{
+    padding: 10px;
+}
 
