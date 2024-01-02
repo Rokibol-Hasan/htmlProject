@@ -66,6 +66,39 @@ ul li a {
 
 /* এই পর্যন্ত মুখস্ত */
 
+
+
+/* nav css start */
+.full-nav{
+  height: 100px;
+  background-color:lightcoral ;
+}
+
+.nav-inner{
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+}
+
+.nav-item li{
+  padding-right: 60px;
+  margin-top: 38px;
+}
+.nav-item li a{
+  font-weight: 600;
+  color: white;
+}
+
+
+.brand-logo img{
+  width: 100px;
+}
+/* nav css end */
+
+
+
+
+
 .feature {
   background: rgb(21, 21, 21);
   padding: 70px 0px;
@@ -167,4 +200,13 @@ input[type="password"]:focus {
   height: 200px;
 
   /* padding: 20px 0px; */
+}
+
+.margin-inner {
+  padding: 50px 20px;
+  background-color: steelblue;
+  color: white;
+  border: 1px solid gray;
+  border-radius: 5px;
+  box-shadow: rgba(0,0,0,0.5);
 }
